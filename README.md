@@ -11,5 +11,3 @@ I'm 17 year old high school student who loves programming.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devkr-potato&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=devkr-potato)  
-
