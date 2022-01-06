@@ -8,6 +8,4 @@ A world must be created that can contribute to the development of the human comm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkr-potato&hide=java,kotlin,hack,r)](https://github.com/devkr-potato)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkr-potato&hide=javascript,html,php,hack,css,scss)](https://github.com/devkr-potato)
 
-<div align="center"><h3>기억하는것보다 기록하는것이 중요합니다.</h3></div>
-
 [![이민준의 github 활동 그래프 ](https://activity-graph.herokuapp.com/graph?username=devkr-potato&theme=react-dark)](https://github.com/devkr-potato)
