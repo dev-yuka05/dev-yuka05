@@ -4,9 +4,26 @@
 
 ### #1 제가 누구냐면요
 <a href="https://github.com/wadestudio">@wadestudio</a>의 창립자이며, 현재는 개인프로젝트로 새로운 팀을 꾸려나갈 계획을 하고있는 늅늅이 학생 개발자입니다.
+<br>
+<br>
+<br>
+### #2 왜 코딩을 하냐면요
+~~웅장한 사람이 될려고 합니다!~~<br>
+<br>
+<br>
+<br>
 
+### #3 1일 1커밋
+1일 1커밋 어렵지않습니다. 하루에 한번 커밋 안하면 취업못한다는 생각으로 하면 됩니다 🙃
 
-### #2 기술스택
+<br>
+<br>
+<br>
+<br>
+<br>
+<div align="center">
+  <h1>기술 스택</h1>
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
 <br><br>
