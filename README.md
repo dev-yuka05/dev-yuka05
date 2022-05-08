@@ -4,6 +4,8 @@
 
 ### #1 제가 누구냐면요
 <a href="https://github.com/wadestudio">@wadestudio</a>의 창립자이며, 현재는 개인프로젝트로 새로운 팀을 꾸려나갈 계획을 하고있는 늅늅이 학생 개발자입니다.
+할께 너무 많습니다
+
 <br>
 <br>
 <br>
