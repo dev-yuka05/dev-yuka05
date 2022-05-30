@@ -1,8 +1,10 @@
 안녕하세요?
 
-**커피마실 돈좀 기부해주세요**
- https://toss.me/yuka05/5000
+**커피좀 사주세요**<br>
+ https://toss.me/yuka05/4500<br>
+ __**모인 커피 : 2잔**__
+
 
 **제가 만든거 봐주세요**<br>
-https://wade.pw<br>
-https://github.com/WADE-OSS/CodePin
+https://wade.pw
+> 특 : 모바일 최적화따위 없다
