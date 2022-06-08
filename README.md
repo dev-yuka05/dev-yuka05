@@ -10,4 +10,4 @@
 
 **제가 만든거 봐주세요**<br>
 https://wade.pw
-> 특 : 모바일 최적화따위 없다
+https://wade.pw/api/v1/all.json
