@@ -9,5 +9,5 @@
 
 
 **제가 만든거 봐주세요**<br>
-https://wade.pw
-https://wade.pw/api/v1/all.json
+https://wade.pw<br>
+https://wade.pw/api/v1/post.json
