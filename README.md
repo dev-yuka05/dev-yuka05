@@ -3,10 +3,8 @@
 <br>
 <br>
 
-**커피좀 사주세요**<br>
- https://toss.me/yuka05/4500<br>
- __**모인 커피 : 2잔**__
-
+**천원만 기부해주세요...**<br>
+ https://toss.me/yuka05/1000<br>
 
 **제가 만든거 봐주세요**<br>
 https://wade.pw<br>
