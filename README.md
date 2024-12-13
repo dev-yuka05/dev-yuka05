@@ -20,7 +20,7 @@ Adobe Photoshop, Adobe Illustrator, Excel, PowerPoint, Slack, Notion, 플로우,
 <br>
 
 ## 경력 사항?
-SLEXN (도제, 인턴) : 2022.08 ~ 현재
+SLEXN (주임) : 2022.08 ~ 현재
 
 <br>
 <br>
