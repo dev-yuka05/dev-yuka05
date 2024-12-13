@@ -3,10 +3,10 @@
 ## 기술
 
 ### 일반 업무
-Adobe Photoshop, Adobe Illustrator, Excel, PowerPoint, Slack, Notion, 플로우, 깃허브, 깃랩
+Adobe Photoshop, Adobe Illustrator, Excel, PowerPoint, Slack, Notion, Flow, Github, Gitlab
 
 ### 프로그래밍
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/nodedotjs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/nodedotjs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/golang-5dc9e2?style=for-the-badge&logo=go&logoColor=white">
 
 <br>
 <br>
