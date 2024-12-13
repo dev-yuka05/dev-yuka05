@@ -19,7 +19,7 @@ Adobe Photoshop, Adobe Illustrator, Excel, PowerPoint, Slack, Notion, Flow, Gith
 <br>
 <br>
 
-## 경력 사항?
+## 경력 사항
 SLEXN (주임) : 2022.08 ~ 현재
 
 <br>
