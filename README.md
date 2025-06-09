@@ -9,6 +9,8 @@
 Adobe Photoshop, Adobe Illustrator, Excel, PowerPoint, Slack, Notion, Flow, Github, Gitlab
 
 ### 프로그래밍
+완벽하게, 제대로 가능한 게 아니라면 기재하지 않습니다. <br> HTML, CSS 등 프론트엔드 기본과 SQL 등은 기본적으로 가능합니다.
+
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/nodedotjs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/golang-5dc9e2?style=for-the-badge&logo=go&logoColor=white">
 
 <br>
